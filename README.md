@@ -1,4 +1,3 @@
-# ARIA
 import os
 import time
 import pyaudio
